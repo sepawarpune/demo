@@ -12,8 +12,10 @@
         "template"
     ],
      "scripts": {
-    "start": "node index.js"
-  },
+    "start": "node gulp"
+"scripts": {
+  "start": "gulp"
+}
     "homepage": "https://www.arthtechs.com",
     "bugs": {
         "url": "https://github.com/sepawarpune/arthtech-app/issues",
